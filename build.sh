@@ -1,0 +1,1 @@
+eosio-cpp -abigen -I ./include -R ./resource -contract telostask -o telostask.wasm telostask.cpp
